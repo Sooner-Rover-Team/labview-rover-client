@@ -1,0 +1,5 @@
+ok leo listen up
+
+you need to remember that base 64 encoding and decoding is neccesary to deal with video streaming- so make sure you do that.
+also look at this page and post a help question on the forums if possible.
+https://forums.ni.com/t5/LabVIEW-Web-Development/Streaming-Images-Over-Websockets-Demo/ta-p/3531837
